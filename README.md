@@ -223,3 +223,7 @@ Create and full-replace must reject reservations whose window overlaps an existi
 ### 6.12 Other Notables
 
 <TODO - anything else that is noteworthy>
+
+### 6.13 AI Usage
+
+<TODO - was AI used? if so describe *exactly* how AI has been used>
